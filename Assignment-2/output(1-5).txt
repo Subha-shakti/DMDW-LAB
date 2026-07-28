@@ -1,0 +1,22 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+========= RESTART: C:/Users/student/Desktop/24CSE106/Assignment-2/q1.py ========
+Mean= 17.75
+Mean= 17.75
+
+========= RESTART: C:/Users/student/Desktop/24CSE106/Assignment-2/q2.py ========
+Median= 19.0
+The median= 19.0
+
+========= RESTART: C:/Users/student/Desktop/24CSE106/Assignment-2/q3.py ========
+Mode  = 20
+Mode  = 20
+
+========= RESTART: C:/Users/student/Desktop/24CSE106/Assignment-2/q4.py ========
+Variance  = 22.6875
+Variance = 22.6875
+
+========= RESTART: C:/Users/student/Desktop/24CSE106/Assignment-2/q5.py ========
+Standard Deviation = 4.763139720814412
+Standard Deviation = 4.763139720814412
