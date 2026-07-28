@@ -1,0 +1,31 @@
+Python 3.10.0 (tags/v3.10.0:b494f59, Oct  4 2021, 19:00:18) [MSC v.1929 64 bit (AMD64)] on win32
+Type "help", "copyright", "credits" or "license()" for more information.
+
+========= RESTART: C:/Users/student/Desktop/24CSE106/Assignment-2/q6.py ========
+Enter a series of numbers: 12 10 15 18 20 20 22 25
+Mean: 17.75
+Median: 19.0
+Mode: 20
+Variance: 25.928571428571427
+Standard Deviation: 5.092010548749033
+
+
+========= RESTART: C:/Users/student/Desktop/24CSE106/Assignment-2/q7.py ========
+Mean:32.5
+Median:32.5
+Mode:10
+Standard Deviation:14.361406616345072
+Variance:206.25
+
+
+========= RESTART: C:/Users/student/Desktop/24CSE106/Assignment-2/q8.py ========
+0.27683480787756565
+50
+71
+0.9143406422237158
+0.6229016948897019
+
+
+
+
+
